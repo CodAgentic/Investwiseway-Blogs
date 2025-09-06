@@ -1,0 +1,66 @@
+Skip to content
+Chat history
+
+You said:
+Can you please tell me if I'm writing in a blogs about related to finance investment something like this which type of qualities does I need tell me in short
+ChatGPT said:
+Got it 👍 If you’re writing finance & investment blogs, here are the key qualities you need (short & clear):
+
+Accuracy – Facts, data, and numbers must be correct.
+
+Clarity – Simple, easy-to-understand language.
+
+Credibility – Cite sources, show expertise.
+
+Practical Value – Actionable tips, insights, or strategies.
+
+Engagement – Use stories, examples, or case studies.
+
+Consistency – Regular posting & coherent style.
+
+SEO-Friendly – Keywords, headings, readability for search engines.
+
+Do you want me to make you a ready-to-use checklist so you can apply these to every blog you write?
+
+You said:
+Also can you please tell me about few things like if I have to write blogs for Medium which type of things those I need there and length everything and convert all the thing into the prompt and give me that.
+ChatGPT said:
+Perfect — I’ll give you a ready-to-use prompt for writing finance/investment blogs on Medium. It’ll cover length, style, and structure.
+
+📌 Prompt for Writing Finance Blogs on Medium
+*"Write a blog article for Medium about [insert your finance/investment topic].
+
+Length: 800–1,200 words (enough for depth, but not too long).
+
+Tone: Clear, trustworthy, and beginner-friendly, but still professional.
+
+Structure:
+
+Hook introduction (start with a relatable problem, question, or story).
+
+Explain the core idea with simple language.
+
+Use bullet points, numbers, or subheadings for clarity.
+
+Provide examples, case studies, or data to build credibility.
+
+End with actionable takeaways or a summary.
+
+Qualities: Accurate, practical, engaging, and SEO-friendly (use keywords naturally).
+
+Format for Medium: Short paragraphs (2–4 lines), conversational style, include headings (H2/H3), bold key terms, and add 1–2 call-to-actions (e.g., “share your thoughts in comments”)."*
+
+👉 You can just copy this prompt, insert your specific blog topic (like “beginner’s guide to index funds” or “why diversification matters”), and it will guide you.
+
+Do you want me to also make a sample outline (like a template structure) for your first finance blog so you can fill it in?
+
+Do you like this personality?
+
+
+
+
+
+
+No file chosenNo file chosen
+ChatGPT can make mistakes. Check important info.
+ChatGPT says: Perfect — I’ll give you a **ready-to-use prompt** for writing finance/investment blogs on **Medium**. It’ll cover length, style, and structure. --- ### 📌 Prompt for Writing Finance Blogs on Medium *"Write a blog article for Medium about [insert your finance/investment topic]. - **Length**: 800–1,200 words (enough for depth, but not too long). - **Tone**: Clear, trustworthy, and beginner-friendly, but still professional. - **Structure**: 1. Hook introduction (start with a relatable problem, question, or story). 2. Explain the core idea with simple language. 3. Use bullet points, numbers, or subheadings for clarity. 4. Provide **examples, case studies, or data** to build credibility. 5. End with actionable takeaways or a summary. - **Qualities**: Accurate, practical, engaging, and SEO-friendly (use keywords naturally). - **Format for Medium**: Short paragraphs (2–4 lines), conversational style, include headings (H2/H3), bold key terms, and add 1–2 call-to-actions (e.g., “share your thoughts in comments”)."* --- 👉 You can just copy this prompt, insert your **specific blog topic** (like “beginner’s guide to index funds” or “why diversification matters”), and it will guide you. Do you want me to also make a **sample outline** (like a template structure) for your first finance blog so you can fill it in?
